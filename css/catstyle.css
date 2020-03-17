@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #E4C7F3;
+}
+
+h1 {
+  color: #9132C1;
+  font-weight: bolder;
+}
+
+h2 {
+  color: #9132C1;
+}
+
+p {
+  font-weight: lighter;
+}
