@@ -15,3 +15,13 @@ h2 {
 p {
   font-weight: lighter;
 }
+
+.standard-display-class {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #E4C7F3;
+}
+
+.dark-mode-class {
+  background-color: rgb(43, 8, 43);
+  color: rgb(157, 121, 161);
+}
